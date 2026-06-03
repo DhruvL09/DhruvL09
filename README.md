@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @DhruvL09
-- 👀 I’m a Sophomore at Krea University Pursuing my Double major in Data Sicence and Psychology
-- 🌱 I’m currently learning how to code and getting satrted with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me.
-- ⚡ Fun fact: ...
+👋 I'm Dhruv, a sophomore at Krea University double majoring in Data Science and Psychology
+🔭 Currently building my skills in Python and exploring ML/AI
+💞️ Open to collaborating on projects with real-world impact
+📫 Reach me at dhruv.lele2@gmail.com 
 
 <!---
 DhruvL09/DhruvL09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
