@@ -1,6 +1,6 @@
-👋 I'm Dhruv, a sophomore at Krea University double majoring in Data Science and Psychology
-🔭 Currently building my skills in Python and exploring ML/AI
-💞️ Open to collaborating on projects with real-world impact
+I'm Dhruv, a sophomore at Krea University double majoring in Data Science and Psychology, Currently building my skills in Python and exploring ML/AI
+Open to collaborating on projects with real-world impact
+
 📫 Reach me at dhruv.lele2@gmail.com 
 
 <!---
